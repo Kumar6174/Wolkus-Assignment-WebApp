@@ -25,5 +25,8 @@
 # Data Analytics Charts
 <img src="assets/Screenshot (83).png" width="800" /> 
 <img src="assets/Screenshot (84).png" width="800" />
-<img src="assets/Screenshot (84).png" width="800" />
-<img src="assets/Screenshot (86).png" width="800" />
+<img src="assets/Screenshot (85).png" width="800" />
+<img src="assets/Screenshot (87).png" width="800" />
+<img src="assets/Screenshot (88).png" width="800" />
+<img src="assets/Screenshot (89).png" width="800" />
+<img src="assets/Screenshot (90).png" width="800" />
